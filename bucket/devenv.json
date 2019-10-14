@@ -1,7 +1,7 @@
 {
-    "homepage": "https://github.com/stephanec2/devenv",
+    "homepage": "https://github.com/stephanec/devenv",
     "version": "0.1",
-    "url": "https://github.com/stephanec2/devenv/archive/v0.1.zip",
+    "url": "https://github.com/stephanec1/devenv/archive/v0.1.zip",
     "extract_dir": "devenv-0.1",
     "bin": "bin/devenv.ps1",
     "checkver": "github",
