@@ -1,0 +1,15 @@
+{
+    "description": "AdoptOpenJDK 13",
+    "homepage": "https://adoptopenjdk.net",
+    "version": "13",
+    "architecture": {
+        "64bit": {
+            "url": "https://adi.axway.int/shared/OpenJDK/windows/openjdk-13.zip"
+        }
+    },
+    "extract_dir": "openjdk-13",
+    "env_add_path": "bin",
+    "env_set": {
+        "JAVA_HOME": "$dir"
+    }
+}

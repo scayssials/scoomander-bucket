@@ -1,0 +1,15 @@
+{
+    "description": "AdoptOpenJDK 11",
+    "homepage": "https://adoptopenjdk.net",
+    "version": "11.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://adi.axway.int/shared/OpenJDK/windows/openjdk-11.0.2.zip"
+        }
+    },
+    "extract_dir": "openjdk-11.0.2",
+    "env_add_path": "bin",
+    "env_set": {
+        "JAVA_HOME": "$dir"
+    }
+}
