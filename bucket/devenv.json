@@ -1,0 +1,16 @@
+{
+    "homepage": "https://github.com/stephanec2/devenv",
+    "version": "0.5",
+    "url": "https://github.com/stephanec2/devenv/archive/v0.5.zip",
+    "extract_dir": "devenv-0.5",
+    "bin": "bin/devenv.ps1",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/stephanec2/devenv/archive/v$version.zip",
+        "extract_dir": "devenv-$version"
+    },
+    "persist": [
+        "config",
+        "plugins"
+    ]
+}

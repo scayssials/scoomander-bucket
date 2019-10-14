@@ -1,0 +1,39 @@
+{
+    "homepage": "https://jakub.kotrla.net/putty/",
+    "version": "0.87",
+    "description": "A free implementation of SSH and Telnet, along with an xterm terminal emulator.",
+    "license": "MIT",
+    "url": "https://jakub.kotrla.net/putty/portable_putty_073_0.15.0_all_in_one.zip",
+    "hash": "7da14ac4e53c6aec5d9f31ddd32af78f2f9a40271d4c7400a893c8a68561ca34",
+    "extract_dir": "0.73",
+    "bin": [
+        "putty.exe",
+        "puttygen.exe",
+        "pscp.exe",
+        "pageant.exe",
+        "psftp.exe",
+        "plink.exe"
+    ],
+    "shortcuts": [
+        [
+            "putty.exe",
+            "PuTTY"
+        ],
+        [
+            "pageant.exe",
+            "Pageant"
+        ],
+        [
+            "psftp.exe",
+            "PSFTP"
+        ],
+        [
+            "puttygen.exe",
+            "PuTTYgen"
+        ]
+    ],
+    "pre_install": [
+        "$url = \"https://the.earth.li/~sgtatham/putty/latest/w32/puttygen.exe\"",
+        "Invoke-WebRequest -Uri $url -OutFile $dir/puttygen.exe"
+    ]
+}
