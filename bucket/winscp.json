@@ -2,7 +2,7 @@
     "homepage": "https://winscp.net/eng/index.php",
     "version": "5.15.4",
     "description": "WinSCP is a popular SFTP client and FTP client for Microsoft Windows",
-    "url": "https://cdn.winscp.net/files/WinSCP-5.15.4-Portable.zip?secure=KV2cOpPuzrPoqXgM3y8wNg==,1571131020",
+    "url": "https://downloads.sourceforge.net/project/winscp/WinSCP/5.15.4/WinSCP-5.15.4-Portable.zip",
     "hash": "317eff4325718b51c0fabcd514539af2d1d6db8b8d458a2cc8a724d57d615bd8",
     "bin": [
         "WinSCP.exe"
