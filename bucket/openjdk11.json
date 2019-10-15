@@ -4,7 +4,7 @@
     "version": "11.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://adi.axway.int/shared/OpenJDK/windows/openjdk-11.0.2.zip"
+            "url": "https://adi.axway.int/shared/hw-devenv/jdk/openjdk-11.0.2.zip"
         }
     },
     "extract_dir": "openjdk-11.0.2",

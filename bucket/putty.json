@@ -1,6 +1,6 @@
 {
     "homepage": "https://jakub.kotrla.net/putty/",
-    "version": "0.74",
+    "version": "0.73",
     "description": "A free implementation of SSH and Telnet, along with an xterm terminal emulator.",
     "license": "MIT",
     "url": "https://jakub.kotrla.net/putty/portable_putty_073_0.15.0_all_in_one.zip",
