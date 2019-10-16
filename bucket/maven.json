@@ -1,0 +1,14 @@
+{
+    "description": "Maven",
+    "version": "3.5.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://adi.axway.int/shared/hw-devenv/maven/maven-3.5.4.zip"
+        }
+    },
+    "extract_dir": "maven-3.5.4",
+    "env_add_path": "bin",
+    "env_set": {
+        "M2_HOME": "$dir"
+    }
+}
