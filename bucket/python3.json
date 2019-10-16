@@ -3,7 +3,7 @@
     "description": "A programming language that lets you work quickly and integrate systems more effectively.",
     "license": "Python-2.0",
     "version": "3.8.0",
-    "url": "https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe"
+    "url": "https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe",
     "installer": {
         "script": [
             "Expand-DarkArchive \"$dir\\$fname\" \"$dir\\_tmp\"",
