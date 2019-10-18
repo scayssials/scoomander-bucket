@@ -1,9 +1,9 @@
 {
     "homepage": "https://yarnpkg.com/",
     "description": "Node.js dependency manager",
-    "version": "1.19.0",
+    "version": "1.19.1",
     "license": "BSD-2-Clause",
-    "url": "https://yarnpkg.com/downloads/1.19.0/yarn-1.19.0.msi",
+    "url": "https://yarnpkg.com/downloads/1.19.1/yarn-1.19.1.msi",
     "persist": [
         "cache",
         "mirror",
