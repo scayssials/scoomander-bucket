@@ -1,8 +1,8 @@
 {
     "homepage": "https://github.com/stephanec/devenv",
-    "version": "0.13",
-    "url": "https://github.com/stephanec1/devenv/archive/v0.13.zip",
-    "extract_dir": "devenv-0.13",
+    "version": "0.14",
+    "url": "https://github.com/stephanec1/devenv/archive/v0.14.zip",
+    "extract_dir": "devenv-0.14",
     "bin": "bin/devenv.ps1",
     "checkver": "github",
     "autoupdate": {
