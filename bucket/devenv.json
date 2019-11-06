@@ -1,12 +1,12 @@
 {
-    "homepage": "https://github.com/stephanec/devenv",
-    "version": "0.17",
-    "url": "https://github.com/stephanec1/devenv/archive/v0.17.zip",
-    "extract_dir": "devenv-0.17",
+    "homepage": "https://github.com/scayssials/devenv",
+    "version": "0.18",
+    "url": "https://github.com/scayssials/devenv/archive/v0.18.zip",
+    "extract_dir": "devenv-0.18",
     "bin": "bin/devenv.ps1",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/stephanec1/devenv/archive/v$version.zip",
+        "url": "https://github.com/scayssials/devenv/archive/v$version.zip",
         "extract_dir": "devenv-$version"
     },
     "persist": [
