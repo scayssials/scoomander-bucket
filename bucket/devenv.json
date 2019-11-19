@@ -2,6 +2,7 @@
     "homepage": "https://github.com/scayssials/devenv",
     "version": "0.27",
     "url": "https://github.com/scayssials/devenv/archive/v0.27.zip",
+    "hash": "742599045a16a5a9269c6b006439f6c0c36b5594573c802563b9d1946a76f081",
     "extract_dir": "devenv-0.27",
     "bin": "bin/devenv.ps1",
     "checkver": "github",
