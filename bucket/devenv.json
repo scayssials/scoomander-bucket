@@ -1,8 +1,8 @@
 {
     "homepage": "https://github.com/scayssials/devenv",
-    "version": "0.26",
-    "url": "https://github.com/scayssials/devenv/archive/v0.26.zip",
-    "extract_dir": "devenv-0.26",
+    "version": "0.27",
+    "url": "https://github.com/scayssials/devenv/archive/v0.27.zip",
+    "extract_dir": "devenv-0.27",
     "bin": "bin/devenv.ps1",
     "checkver": "github",
     "autoupdate": {
