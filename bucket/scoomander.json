@@ -1,13 +1,13 @@
 {
-    "homepage": "https://github.com/scayssials/devenv",
+    "homepage": "https://github.com/scayssials/scoomander",
     "version": "0.28",
-    "url": "https://github.com/scayssials/devenv/archive/v0.28.zip",
+    "url": "https://github.com/scayssials/scoomander/archive/v0.28.zip",
     "hash": "19e0de5e8dac8af5645b56b49a835faa2c8dc7be84547bba9f022c9f576fb93a",
     "extract_dir": "devenv-0.28",
     "bin": "bin/devenv.ps1",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/scayssials/devenv/archive/v$version.zip",
+        "url": "https://github.com/scayssials/scoomander/archive/v$version.zip",
         "extract_dir": "devenv-$version"
     },
     "persist": [
