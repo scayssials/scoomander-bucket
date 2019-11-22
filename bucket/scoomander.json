@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/scayssials/scoomander",
-    "version": "0.35",
-    "url": "https://github.com/scayssials/scoomander/archive/v0.35.zip",
-    "hash": "9bb9c2bb780c33b37286852e2245e7acd0eedde0481b4ba97f6933787bbb26fb",
-    "extract_dir": "scoomander-0.35",
+    "version": "0.42",
+    "url": "https://github.com/scayssials/scoomander/archive/v0.42.zip",
+    "hash": "1589955e4d088d835b47bbcb284e0a1b4c31ee433f3e10bafc64985cde65df8a",
+    "extract_dir": "scoomander-0.42",
     "bin": "bin/scoomander.ps1",
     "checkver": "github",
     "autoupdate": {
